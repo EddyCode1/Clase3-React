@@ -1,8 +1,11 @@
-
+import React from 'react'
+ 
 export const ForgotPasswordForm = () => {
   return (
-    <div> Forgont Passwords 
-
+    <div>
+     
     </div>
-    )
+  )
 }
+ 
+ 
